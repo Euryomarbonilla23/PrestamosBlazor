@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30330.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorPrestamo", "BlazorPrestamo.csproj", "{BA851AD4-0E80-4337-A74D-2BFD161D3586}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PretamosTest", "..\PretamosTest\PretamosTest.csproj", "{CF2A1AE6-FEC6-4F3C-BB56-2D0493C81998}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA851AD4-0E80-4337-A74D-2BFD161D3586}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA851AD4-0E80-4337-A74D-2BFD161D3586}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA851AD4-0E80-4337-A74D-2BFD161D3586}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA851AD4-0E80-4337-A74D-2BFD161D3586}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF2A1AE6-FEC6-4F3C-BB56-2D0493C81998}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF2A1AE6-FEC6-4F3C-BB56-2D0493C81998}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF2A1AE6-FEC6-4F3C-BB56-2D0493C81998}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF2A1AE6-FEC6-4F3C-BB56-2D0493C81998}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F22E78CB-9011-4A8E-82E5-CBA8D3A3085D}
+	EndGlobalSection
+EndGlobal
